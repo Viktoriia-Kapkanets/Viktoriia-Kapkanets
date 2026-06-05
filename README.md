@@ -1,6 +1,6 @@
 # Hi, I'm Viktoriia 👋
 
-**Microsoft Certified Power BI Data Analyst (PL-300)** based in Surrey, BC 🇨🇦
+**Microsoft Certified Power BI Data Analyst (PL-300)** based in Surrey BC, Canada 🇨🇦
 
 I build dashboards and reports that turn raw operational data into stakeholder-ready insights — currently as a volunteer data analyst for Canadian nonprofit organizations.
 
@@ -9,34 +9,38 @@ I build dashboards and reports that turn raw operational data into stakeholder-r
 ## 🛠️ Core Stack
 
 **BI & Visualization** &nbsp; Power BI · Tableau · Looker Studio
-**Data & Modeling** &nbsp; DAX · Power Query (M) · SQL · Excel
-**Programming** &nbsp; Python (pandas, NumPy, matplotlib, seaborn)
-**Cloud & Other** &nbsp; SQL Server · PostgreSQL · Google Analytics
+**Data & Modeling** &nbsp; DAX · Power Query (M) · Excel
+**Languages** &nbsp; SQL (foundational, actively expanding) · Python (pandas, working knowledge)
+**Other Tools** &nbsp; Google Analytics · SEMrush
+
+---
 
 ## 📊 Featured Projects
 
-### Power BI
+### [YRES Data Analytics Portfolio](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio) — Multi-tool case study
 
-Operational reporting suite built for **YRES**, a Canadian youth services nonprofit — including weekly signup tracking, coaching engagement dashboards, and cancellation pattern analysis with DAX measures (Running Total, week-over-week comparisons, segmentation).
+End-to-end analytics work for YRES, a Canadian youth services nonprofit. Four projects across three BI tools using real production data with permission:
 
-### Tableau
+📌 **[Power BI — Weekly Signup Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/01-power-bi-weekly-signup)** — Multi-page Power BI report with DAX calculated columns (WeekStart, Hour) and Bing Maps geographic visualization.
 
-Interactive dashboards published on [**Tableau Public**](https://public.tableau.com/app/profile/viktoriia.kapkanets/vizzes) — including signup source / referral channel analysis for YRES.
+📌 **[Power BI — 1:1 Coaching Engagement Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/02-power-bi-coaching)** — DAX measures including DISTINCTCOUNT and Running Total using CALCULATE + FILTER + ALLSELECTED. 13 months of data.
 
-### Python
+📌 **[Tableau — Signup & Coaching Analysis](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/03-tableau-dashboards)** — Multi-tab interactive dashboards with calculated fields and geographic mapping. Also available [live on Tableau Public](https://public.tableau.com/app/profile/viktoriia.kapkanets).
 
-[**Social Media Engagement Analysis**](https://github.com/Viktoriia-Kapkanets/social-media-engagement-analysis) — exploratory data analysis on social media usage patterns using pandas, seaborn, and statistical visualization techniques.
+📌 **[Looker Studio — Weekly Signup Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/04-looker-studio)** — Live Google Sheets integration, browser-based for stakeholder access without licenses.
 
-### Excel
+### Other Work
 
-[**Student Mental Health Dashboard**](https://github.com/Viktoriia-Kapkanets/student-mental-health-excel) — interactive Excel dashboard with pivot tables, charts, and slicers analyzing mental health prevalence and treatment-seeking behavior among university students.
+📌 **[Social Media Engagement Analysis](https://github.com/Viktoriia-Kapkanets/Python)** — Exploratory data analysis using pandas and seaborn (Python).
+
+📌 **[Student Mental Health Dashboard](https://github.com/Viktoriia-Kapkanets/DataAnalystPortfolioProjects)** — Interactive Excel dashboard with pivot tables, charts, and slicers.
 
 ---
 
 ## 🎓 Certifications
 
 - Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**
-- Front-End Basic Certificate - Hillel IT School
+- Google Analytics for Beginners — Google Analytics Academy
 - Master's Degree in Philology and Computational Linguistics — Mariupol State University
 
 ## 🤝 Beyond Code
