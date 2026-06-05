@@ -10,7 +10,7 @@ I build dashboards and reports that turn raw operational data into stakeholder-r
 
 **BI & Visualization** &nbsp; Power BI · Tableau · Looker Studio
 **Data & Modeling** &nbsp; DAX · Power Query (M) · Excel
-**Languages** &nbsp; SQL (foundational, actively expanding) · Python (pandas, working knowledge)
+**Languages** &nbsp; SQL (foundational, actively expanding) · Python (pandas, NumPy, matplotlib, seaborn - working knowledge)
 **Other Tools** &nbsp; Google Analytics · SEMrush
 
 ---
