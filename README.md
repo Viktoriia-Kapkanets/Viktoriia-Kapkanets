@@ -29,6 +29,16 @@ End-to-end analytics work for YRES, a Canadian youth services nonprofit. Four pr
 
 📌 **[Looker Studio — Weekly Signup Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/04-looker-studio)** — Live Google Sheets integration, browser-based for stakeholder access without licenses.
 
+### [BC Public School Funding & Enrolment — A Four-Year Review](https://github.com/Viktoriia-Kapkanets/BC-education-funding-analysis) — Power BI
+
+A self-directed analysis of how enrolment and provincial funding changed across BC public school districts over four years (2022/23 – 2025/26), built end-to-end in Power BI on public education-funding data.
+
+📌 **Power Query** — unpivoted and appended inconsistent multi-year sheets, with data-quality debugging (schema differences, null rows, a leaking provincial-summary row).
+
+📌 **Star-schema model + DAX** — five core measures for trends, year-over-year change, and a conditional colour measure for gains vs. declines.
+
+📌 **Findings** — funding rose 25.6% but growth is slowing; some grants are quietly frozen (a real-terms cut); funding tracks enrolment closely (r = 0.90), yet every district still gained.
+
 ### Other Work
 
 📌 **[Social Media Engagement Analysis](https://github.com/Viktoriia-Kapkanets/Python)** — Exploratory data analysis using pandas and seaborn (Python).
