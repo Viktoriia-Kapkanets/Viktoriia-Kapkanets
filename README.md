@@ -2,7 +2,7 @@
 
 **Microsoft Certified Power BI Data Analyst (PL-300)** based in Surrey BC, Canada 🇨🇦
 
-I build dashboards and reports that turn raw operational data into stakeholder-ready insights — currently as a volunteer data analyst for Canadian nonprofit organizations.
+I build dashboards and reports that turn raw operational data into stakeholder-ready insight - currently as a volunteer data analyst for Canadian nonprofit organizations.
 
 ---
 
@@ -17,41 +17,41 @@ I build dashboards and reports that turn raw operational data into stakeholder-r
 
 ## 📊 Featured Projects
 
-### [YRES Data Analytics Portfolio](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio) — Multi-tool case study
+### [YRES Data Analytics Portfolio](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio) - Multi-tool case study
 
 End-to-end analytics work for YRES, a Canadian youth services nonprofit. Four projects across three BI tools using real production data with permission:
 
-📌 **[Power BI — Weekly Signup Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/01-power-bi-weekly-signup)** — Multi-page Power BI report with DAX calculated columns (WeekStart, Hour) and Bing Maps geographic visualization.
+📌 **[Power BI - Weekly Signup Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/01-power-bi-weekly-signup)** - Multi-page Power BI report with DAX calculated columns (WeekStart, Hour) and Bing Maps geographic visualization.
 
-📌 **[Power BI — 1:1 Coaching Engagement Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/02-power-bi-coaching)** — DAX measures including DISTINCTCOUNT and Running Total using CALCULATE + FILTER + ALLSELECTED. 13 months of data.
+📌 **[Power BI - 1:1 Coaching Engagement Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/02-power-bi-coaching)** - DAX measures including DISTINCTCOUNT and Running Total using CALCULATE + FILTER + ALLSELECTED. 13 months of data.
 
-📌 **[Tableau — Signup & Coaching Analysis](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/03-tableau-dashboards)** — Multi-tab interactive dashboards with calculated fields and geographic mapping. Also available [live on Tableau Public](https://public.tableau.com/app/profile/viktoriia.kapkanets).
+📌 **[Tableau - Signup & Coaching Analysis](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/03-tableau-dashboards)** - Multi-tab interactive dashboards with calculated fields and geographic mapping. Also available [live on Tableau Public](https://public.tableau.com/app/profile/viktoriia.kapkanets).
 
-📌 **[Looker Studio — Weekly Signup Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/04-looker-studio)** — Live Google Sheets integration, browser-based for stakeholder access without licenses.
+📌 **[Looker Studio - Weekly Signup Report](https://github.com/Viktoriia-Kapkanets/YRES-data-analytics-portfolio/tree/main/04-looker-studio)** - Live Google Sheets integration, browser-based for stakeholder access without licenses.
 
-### [BC Public School Funding & Enrolment — A Four-Year Review](https://github.com/Viktoriia-Kapkanets/BC-education-funding-analysis) — Power BI
+### [BC Public School Funding & Enrolment - A Four-Year Review](https://github.com/Viktoriia-Kapkanets/BC-education-funding-analysis) - Power BI
 
-A self-directed analysis of how enrolment and provincial funding changed across BC public school districts over four years (2022/23 – 2025/26), built end-to-end in Power BI on public education-funding data.
+A self-directed analysis of how enrolment and provincial funding changed across BC public school districts over four years (2022/23 - 2025/26), built end-to-end in Power BI on public education-funding data.
 
-📌 **Power Query** — unpivoted and appended inconsistent multi-year sheets, with data-quality debugging (schema differences, null rows, a leaking provincial-summary row).
+📌 **Power Query** - unpivoted and appended inconsistent multi-year sheets, with data-quality debugging (schema differences, null rows, a leaking provincial-summary row).
 
-📌 **Star-schema model + DAX** — five core measures for trends, year-over-year change, and a conditional colour measure for gains vs. declines.
+📌 **Star-schema model + DAX** - five core measures for trends, year-over-year change, and a conditional colour measure for gains vs. declines.
 
-📌 **Findings** — funding rose 25.6% but growth is slowing; some grants are quietly frozen (a real-terms cut); funding tracks enrolment closely (r = 0.90), yet every district still gained.
+📌 **Findings** - funding rose 25.6% but growth is slowing; some grants are quietly frozen (a real-terms cut); funding tracks enrolment closely (r = 0.90), yet every district still gained.
 
 ### Other Work
 
-📌 **[Social Media Engagement Analysis](https://github.com/Viktoriia-Kapkanets/Python)** — Exploratory data analysis using pandas and seaborn (Python).
+📌 **[Social Media Engagement Analysis](https://github.com/Viktoriia-Kapkanets/Python)** - Exploratory data analysis using pandas and seaborn (Python).
 
-📌 **[Student Mental Health Dashboard](https://github.com/Viktoriia-Kapkanets/DataAnalystPortfolioProjects)** — Interactive Excel dashboard with pivot tables, charts, and slicers.
+📌 **[Student Mental Health Dashboard](https://github.com/Viktoriia-Kapkanets/DataAnalystPortfolioProjects)** - Interactive Excel dashboard with pivot tables, charts, and slicers.
 
 ---
 
 ## 🎓 Certifications
 
 - Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**
-- Google Analytics for Beginners — Google Analytics Academy
-- Master's Degree in Philology and Computational Linguistics — Mariupol State University
+- Google Analytics for Beginners - Google Analytics Academy
+- Master's Degree in Philology and Computational Linguistics - Mariupol State University
 
 ## 🤝 Beyond Code
 
@@ -64,4 +64,4 @@ I also volunteer as a **Resource Parent** with the **Family Support Institute of
 **LinkedIn** [linkedin.com/in/viktoriia-kapkanets](https://www.linkedin.com/in/viktoriia-kapkanets/)
 **Tableau Public** [public.tableau.com/app/profile/viktoriia.kapkanets](https://public.tableau.com/app/profile/viktoriia.kapkanets/vizzes)
 
-📍 Open to Data Analyst roles — Remote (Canada), Hybrid, or On-site in BC Lower Mainland
+📍 Open to Data Analyst roles - Remote (Canada), Hybrid, or On-site in BC Lower Mainland
